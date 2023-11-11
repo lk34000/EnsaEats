@@ -1,0 +1,10 @@
+fastapi
+python-dotenv
+pydantic
+psycopg2
+uvicorn
+datetime
+random
+hashlib
+Pyinquirer
+typing
